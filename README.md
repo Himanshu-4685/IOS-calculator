@@ -1,2 +1,3 @@
 # IOS-calculator
-My first repository
+My first repository.
+Author-Himanshu
